@@ -1,4 +1,4 @@
-# AI-study-planner
+<img width="825" height="634" alt="image" src="https://github.com/user-attachments/assets/81cfb782-d1dc-43ea-b0fc-58899ef9f3f3" /># AI-study-planner
 🤖 AI Study Planner Agent — An intelligent study planning tool powered by LLaMA 3.3 (Groq API). Generate personalized study plans, analyze weak topics, get tips &amp; tricks, and download your plan as PDF. Built with Streamlit &amp; Python.
  
  ## 🚀 Features
@@ -31,10 +31,6 @@
    streamlit run app.py
 
 ## 📸 Screenshot
-(Add your app screenshot here)
-
-## 🌐 Live Demo
-(Add your Streamlit deployed link here)
-
+<img width="825" height="634" alt="image" src="https://github.com/user-attachments/assets/3f7fbdb4-01a8-45ba-9654-009378cdd32e" />
 ## 👨‍💻 Author
 Your Name Here
