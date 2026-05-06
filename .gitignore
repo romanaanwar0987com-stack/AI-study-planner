@@ -1,0 +1,6 @@
+.env
+venv/
+__pycache__/
+*.pyc
+history.json
+study_plan.pdf
